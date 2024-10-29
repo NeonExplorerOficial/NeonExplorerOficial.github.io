@@ -1,0 +1,57 @@
+body{
+background-color: #acbcbc;
+    text-decoration-color: blue;}
+#Super{background-color: #2600ff;
+width: 10; height: 100;}
+#Yoshua{
+    width: 100px; height: 100px;
+}
+#descarga{background-color: #7aff00;
+font-style: italic;
+width: 100px; height: 25px;
+border-radius: 20px 20px 20px 20px;
+border-color: #a5ff55;
+}
+#DMCA{background-color: #363636;
+border-radius: 20px 20px 20px 20px;
+width: 100px; height:40px;
+color: #b2b2b2;
+border-bottom-color: #0003ff; border-top-color: #ff000a;
+border-width: 2px;}
+#nes{border-radius: 10px 10px 10px 10px;
+width: 186px; height: 70px;}
+#nds{border-radius: 10px 10px 10px 10px;
+width: 186px; height: 70px;}
+#vacio{border-radius: 10px 10px 10px 10px;
+width: 186px; height: 70px;
+font-size: 40px;
+font-family: initial;}
+#gb{border-radius: 10px 10px 10px 10px;
+width: 186px; height: 70px;
+}
+#romvacio{width: 200px; height: 200px;}
+@media (max-width: 768px){
+#logo{
+width: 380px;
+height: 300px;
+}
+}
+
+@media (min-width: 769px) and (max-width: 1024px){
+#logo{
+width: 900px;
+height: 800px;
+}
+}
+
+@media (min-width: 1025px){
+#logo{
+width: 1600px;
+height: 1500x;
+}
+}
+
+
+#lista-roms li:hover {
+  background-color: #f2f2f2;
+}
