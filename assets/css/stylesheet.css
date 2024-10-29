@@ -8,6 +8,10 @@ body {
   width: 10;
   height: 100;
 }
+#seleccionTipos{
+  font-size: 30px;
+  align-items: center;
+}
 /*#thing{
   width: 30px;
 }*/
