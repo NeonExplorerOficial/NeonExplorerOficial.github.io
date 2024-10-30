@@ -8,11 +8,14 @@ body {
   width: 10;
   height: 100;
 }
-#seleccionTipos{
+table {
+  max-width:80%;
+}
+#seleccionTipos {
   font-size: 30px;
   align-items: center;
 }
-#thing{
+#thing {
   width: 1050px;
 }
 #Yoshua {
