@@ -11,6 +11,22 @@ body {
 table {
   max-width:80%;
 }
+#dsCover{
+  width: 260px;
+  height: 240px;
+}
+#dsCoverOutside{
+  width: 220px;
+  height: 200px;
+}
+#nesCover{
+  width: 240px;
+  height: 320px;
+}
+#nesCoverOutside{
+  width: 200px;
+  height: 280px;
+}
 #seleccionTipos {
   font-size: 30px;
   align-items: center;
@@ -30,6 +46,15 @@ table {
   height: 50px;
   border-radius: 20px 20px 20px 20px;
   border-color: #a5ff55;
+}
+#descargaManual {
+  background-color: #ff3300;
+  font-style: italic;
+  font-size: 20px;
+  width: 200px;
+  height: 50px;
+  border-radius: 20px 20px 20px 20px;
+  border-color: #ff4646;
 }
 #DMCA {
   background-color: #363636;
